@@ -2132,6 +2132,13 @@
         "domains": ["bambuser.com"]
     },
     {
+        "name": "Bandai Namco ID",
+        "url": "https://www.bandainamcoid.com/portal/resign",
+        "difficulty": "easy",
+        "notes": "Log in. Press the url and following the instructions.",
+        "domains": ["bandainamcoid.com"]
+    },
+    {
         "name": "Bandcamp",
         "url": "https://bandcamp.com/settings?pane=fan",
         "difficulty": "easy",
